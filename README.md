@@ -1,4 +1,5 @@
-# vue_canvas_living
+# vue_canvas_xuanku_Requeastanimationfrme2
+## 炫酷扫描选择圆盘动画
 
 > A Vue.js project
 
