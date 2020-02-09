@@ -1,6 +1,10 @@
 # vue_canvas_xuanku_Requeastanimationfrme2
 ## 炫酷扫描选择圆盘动画
 
+## 预览页
+> https://volodya-01.github.io/-vue_canvas_xuanku_Requeastanimationfrme2_preview/
+
+
 > A Vue.js project
 
 ## Build Setup
