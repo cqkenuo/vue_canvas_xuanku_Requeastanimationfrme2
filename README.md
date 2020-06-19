@@ -24,6 +24,6 @@ npm run build --report
 ```
 
 
-<img src="./githubimg/canvas.png" width="400px" height="460px" alt="whalereport">
+<img src="./githubimg/canvas.png" width="100%" alt="whalereport">
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
